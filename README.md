@@ -1,9 +1,9 @@
-<h1>ABDUR RAHIM Full Stack Web Developer Intern at Coding Raja Technologies</h1>
+<h1>ABDUR RAHIM Full Stack Web Developer</h1>
 </br>
 <h3>Project: Blogging Platform Website</h3>
 </br>
 <h4>Overview:</h4>
-<p>During my internship at Coding Raja Technologies, I developed a dynamic and user-friendly blogging platform. This project has been an incredible learning experience, allowing me to apply and expand my skills in full stack web development. Here’s a glimpse into what I built.</p>
+<p>I developed a dynamic and user-friendly blogging platform. This project has been an incredible learning experience, allowing me to apply and expand my skills in full-stack web development. Here’s a glimpse into what I built.</p>
 </br>
 <h4>Key Features:</h4>
 <h5><b>User Authentication:</b></h5> Secure registration, login, and profile management for all users.
